@@ -1,8 +1,9 @@
 # CLAUDE.md - tree-sitter-lumos
 
+> **Ecosystem Context:** See [getlumos/lumos/CLAUDE.md](https://github.com/getlumos/lumos/blob/main/CLAUDE.md) for LUMOS ecosystem overview, cross-repo standards, and shared guidelines.
+
 **Repository:** https://github.com/getlumos/tree-sitter-lumos
-**Ecosystem:** Part of LUMOS language tooling
-**For ecosystem context:** See [lumos/CLAUDE.md](https://github.com/getlumos/lumos/blob/main/CLAUDE.md)
+**Purpose:** Tree-sitter grammar for LUMOS schema language
 
 ---
 
